@@ -1,5 +1,5 @@
-# 👋 Yo, I'm **ERRX4**
-### ⚡ Futuristic • CryptoLad  
+# 👋 Yo, I'm **ERRx4**
+
 
 > Focused on Airdrops, Automation & Scripts 🚀  
 > “Earn smart, automate harder.”
