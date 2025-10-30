@@ -25,7 +25,6 @@
 
 <p align="center">
   <sub>🚀 Future belongs to the automated.</sub>
-</p>## Hi there 👋
 
 <!--
 **errx4/errx4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
